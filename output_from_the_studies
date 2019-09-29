@@ -1,0 +1,32 @@
+Employee or Third Party,Accident Level,Countries,Local,Local,Local,Local
+,,,count,unique,top,freq
+Employee,I,Country_01,70,5,Local_03,25
+Employee,I,Country_02,64,6,Local_05,34
+Employee,I,Country_03,6,1,Local_10,6
+Employee,II,Country_01,4,3,Local_03,2
+Employee,II,Country_02,11,4,Local_08,4
+Employee,III,Country_01,8,5,Local_04,3
+Employee,III,Country_02,5,5,Local_05,1
+Employee,III,Country_03,1,1,Local_10,1
+Employee,IV,Country_01,6,3,Local_06,3
+Employee,IV,Country_02,4,2,Local_08,2
+Third Party,I,Country_01,93,4,Local_03,33
+Third Party,I,Country_02,10,4,Local_05,6
+Third Party,I,Country_03,31,1,Local_10,31
+Third Party,II,Country_01,14,2,Local_04,8
+Third Party,II,Country_02,3,1,Local_05,3
+Third Party,II,Country_03,2,1,Local_10,2
+Third Party,III,Country_01,12,4,Local_01,4
+Third Party,III,Country_03,2,1,Local_10,2
+Third Party,IV,Country_01,14,4,Local_04,6
+Third Party,IV,Country_03,2,1,Local_10,2
+Third Party,V,Country_01,6,3,Local_04,3
+Third Party (Remote),I,Country_01,17,4,Local_03,8
+Third Party (Remote),I,Country_02,25,4,Local_05,11
+Third Party (Remote),II,Country_01,1,1,Local_06,1
+Third Party (Remote),II,Country_02,5,3,Local_02,3
+Third Party (Remote),III,Country_01,1,1,Local_03,1
+Third Party (Remote),III,Country_02,2,2,Local_05,1
+Third Party (Remote),IV,Country_01,3,3,Local_06,1
+Third Party (Remote),IV,Country_02,1,1,Local_02,1
+Third Party (Remote),V,Country_01,2,2,Local_06,1
